@@ -15,39 +15,32 @@ I started in industrial design and 3D visualization, moved into brand and market
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-## Start here
-
-- **[Webflow to Astro](https://github.com/albertyu647/webflow-to-astro)** - how I moved a production marketing site with a live CMS off Webflow and onto Astro + Cloudflare, with pixel-parity testing
-- **[autodemo](https://github.com/albertyu647/autodemo)** - script a product demo as clicks and keystrokes, get a polished screen recording with no recording session
-- **[Seat Alerts](https://github.com/albertyu647/seat-alerts-ca)** - get an email the moment the movie seats you want open up ([live](https://cineplex-notifier.ca))
-- **[Neo-Tetris](https://github.com/albertyu647/neo-tetris)** - real-time 1v1 Tetris with garbage lines, LAN and online play, and a bot ([play](https://neo-tetris.pages.dev))
-
 ## Projects
 
 ### Web and infrastructure
 
-- **[webflow-to-astro](https://github.com/albertyu647/webflow-to-astro)** - Webflow exit case study: scraping, a build-time parity compiler, visual regression scanning, D1 CMS, R2 media
-- **[seat-alerts-ca](https://github.com/albertyu647/seat-alerts-ca)** - Cloudflare Workers + D1 alert service with deduplicated polling and an email outbox
-- **[bible-memo](https://bible-memo.pages.dev)** - offline-first bilingual Bible reader and memorization app (Next.js static export, IndexedDB, Capacitor)
+- 🧭 **[webflow-to-astro](https://github.com/albertyu647/webflow-to-astro)** - how I moved a production marketing site with a live CMS off Webflow and onto Astro + Cloudflare, with pixel-parity testing
+- 🎟️ **[Seat Alerts](https://cineplex-notifier.ca)** - get an email the moment the movie seats you want open up; Cloudflare Workers + D1 ([live](https://cineplex-notifier.ca))
+- 📖 **[Bible Memo](https://bible-memo.pages.dev)** - offline-first bilingual Bible reader and memorization app ([open the app](https://bible-memo.pages.dev))
 
 ### Marketing tools
 
-- **[linkedin-ads-manager](https://github.com/albertyu647/linkedin-ads-manager)** - bulk-edit targeting, bids and budgets across LinkedIn campaigns
-- **[gemini-bulk-image-generator](https://github.com/albertyu647/gemini-bulk-image-generator)** - paste a document of prompts, get a ZIP of images from Gemini or OpenAI
-- **[spotify-playlist-finder](https://github.com/albertyu647/spotify-playlist-finder)** - find playlists that already contain a set of songs
-
-### Case studies
-
-- **[textnow-cli](https://github.com/albertyu647/textnow-cli)** - unofficial, educational: reverse-engineering a web messaging client into a terminal app and an SMS chatbot
+- 🎯 **[linkedin-ads-manager](https://github.com/albertyu647/linkedin-ads-manager)** - bulk-edit targeting, bids and budgets across LinkedIn campaigns
+- 🖼️ **[gemini-bulk-image-generator](https://github.com/albertyu647/gemini-bulk-image-generator)** - paste a document of prompts, get a ZIP of images from Gemini or OpenAI
+- 🎧 **[spotify-playlist-finder](https://github.com/albertyu647/spotify-playlist-finder)** - find playlists that already contain a set of songs
 
 ### Video and demos
 
-- **[autodemo](https://github.com/albertyu647/autodemo)** - deterministic, scripted product-demo videos
-- **[openscreen](https://github.com/albertyu647/openscreen)** - OpenScreen fork with steadier zooms and headless export
+- 🎬 **[autodemo](https://github.com/albertyu647/autodemo)** - script a product demo as clicks and keystrokes, get a polished screen recording with no recording session
+- 🔍 **[openscreen](https://github.com/albertyu647/openscreen)** - OpenScreen fork with steadier zooms and headless export
 
 ### Games
 
-- **[neo-tetris](https://github.com/albertyu647/neo-tetris)** - React + TypeScript PWA, Supabase Realtime multiplayer, heuristic AI opponent
+- 🕹️ **[Neo-Tetris](https://neo-tetris.pages.dev)** - real-time 1v1 Tetris with garbage lines, LAN and online play, and a bot ([play now](https://neo-tetris.pages.dev))
+
+### Case studies
+
+- 📟 **[textnow-cli](https://github.com/albertyu647/textnow-cli)** - unofficial, educational: reverse-engineering a web messaging client into a terminal app and an SMS chatbot
 
 ## Background
 
