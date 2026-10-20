@@ -23,6 +23,10 @@ I started in industrial design and 3D visualization, moved into brand and market
 - 🎟️ **[Seat Alerts](https://github.com/albertyu647/seat-alerts-ca)** - get an email the moment the movie seats you want open up; Cloudflare Workers + D1 ([live](https://cineplex-notifier.ca))
 - 📖 **[Bible Memo](https://github.com/albertyu647/bible-memo)** - offline-first bilingual Bible reader and memorization app ([open the app](https://bible-memo.pages.dev))
 
+### AI agent tools
+
+- 🗝️ **[aria-browser](https://github.com/albertyu647/aria-browser)** - lets any AI coding agent read and click through sites you're signed in to, in a headless Chrome that never opens a window; installs as an agent skill
+
 ### Marketing tools
 
 - 🎯 **[linkedin-ads-manager](https://github.com/albertyu647/linkedin-ads-manager)** - bulk-edit targeting, bids and budgets across LinkedIn campaigns
