@@ -36,6 +36,10 @@ I started in industrial design and 3D visualization, moved into brand and market
 - **[gemini-bulk-image-generator](https://github.com/albertyu647/gemini-bulk-image-generator)** - paste a document of prompts, get a ZIP of images from Gemini or OpenAI
 - **[spotify-playlist-finder](https://github.com/albertyu647/spotify-playlist-finder)** - find playlists that already contain a set of songs
 
+### Case studies
+
+- **[textnow-cli](https://github.com/albertyu647/textnow-cli)** - unofficial, educational: reverse-engineering a web messaging client into a terminal app and an SMS chatbot
+
 ### Video and demos
 
 - **[autodemo](https://github.com/albertyu647/autodemo)** - deterministic, scripted product-demo videos
