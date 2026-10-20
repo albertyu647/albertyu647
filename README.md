@@ -20,8 +20,8 @@ I started in industrial design and 3D visualization, moved into brand and market
 ### Web and infrastructure
 
 - 🧭 **[webflow-to-astro](https://github.com/albertyu647/webflow-to-astro)** - how I moved a production marketing site with a live CMS off Webflow and onto Astro + Cloudflare, with pixel-parity testing
-- 🎟️ **[Seat Alerts](https://cineplex-notifier.ca)** - get an email the moment the movie seats you want open up; Cloudflare Workers + D1 ([live](https://cineplex-notifier.ca))
-- 📖 **[Bible Memo](https://bible-memo.pages.dev)** - offline-first bilingual Bible reader and memorization app ([open the app](https://bible-memo.pages.dev))
+- 🎟️ **[Seat Alerts](https://github.com/albertyu647/seat-alerts-ca)** - get an email the moment the movie seats you want open up; Cloudflare Workers + D1 ([live](https://cineplex-notifier.ca))
+- 📖 **[Bible Memo](https://github.com/albertyu647/bible-memo)** - offline-first bilingual Bible reader and memorization app ([open the app](https://bible-memo.pages.dev))
 
 ### Marketing tools
 
@@ -36,7 +36,7 @@ I started in industrial design and 3D visualization, moved into brand and market
 
 ### Games
 
-- 🕹️ **[Neo-Tetris](https://neo-tetris.pages.dev)** - real-time 1v1 Tetris with garbage lines, LAN and online play, and a bot ([play now](https://neo-tetris.pages.dev))
+- 🕹️ **[Neo-Tetris](https://github.com/albertyu647/neo-tetris)** - real-time 1v1 Tetris with garbage lines, LAN and online play, and a bot ([play now](https://neo-tetris.pages.dev))
 
 ### Case studies
 
