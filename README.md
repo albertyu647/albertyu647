@@ -4,7 +4,7 @@
 
 **Toronto** | **Designer who ships software** | **Brand, marketing and the tools behind them**
 
-I started in industrial design and 3D visualization, moved into brand and marketing at an AI infrastructure startup, and now spend most of my time building the software that marketing runs on: websites, ad tooling, and automated demo and image pipelines. I work with AI coding agents every day and design my projects so they can help.
+I started in industrial design and 3D visualization, moved into brand and marketing at an AI infrastructure startup, and now spend most of my time building the software that marketing runs on: websites, ad tooling, and automated demo and image pipelines. I also benchmark new open models on my own hardware, a MacBook and an RTX 3060 Ti PC. I work with AI coding agents every day and design my projects so they can help.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -26,6 +26,10 @@ I started in industrial design and 3D visualization, moved into brand and market
 ### AI agent tools
 
 - 🗝️ **[aria-browser](https://github.com/albertyu647/aria-browser)** - lets any AI coding agent read and click through sites you're signed in to, in a headless Chrome that never opens a window; installs as an agent skill
+
+### Local AI
+
+- 🔬 **[local-ocr-bench](https://github.com/albertyu647/local-ocr-bench)** - this month's new open OCR models benchmarked on a MacBook (MLX) and an RTX 3060 Ti (vLLM on native Windows), down to 0.5 s per page with diagrams, plus a scan-to-clean-PDF pipeline
 
 ### Marketing tools
 
