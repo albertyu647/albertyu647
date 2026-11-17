@@ -41,6 +41,7 @@ I started in industrial design and 3D visualization, moved into brand and market
 
 - 🎬 **[autodemo](https://github.com/albertyu647/autodemo)** - script a product demo as clicks and keystrokes, get a polished screen recording with no recording session
 - 🔍 **[openscreen](https://github.com/albertyu647/openscreen)** - OpenScreen fork with steadier zooms and headless export
+- 🎬 **[ai-3d-video-lessons](https://github.com/albertyu647/ai-3d-video-lessons)** - lessons from directing AI agents through a 50-second photoreal Blender promo, as an installable agent skill: a third of the first $964 went to agents waiting on renders
 
 ### Games
 
